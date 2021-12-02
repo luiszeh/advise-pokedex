@@ -30,6 +30,19 @@
     margin-bottom: 16px;
 }
 
-.Content-right hr {
-    
+.First-content-right {
+    display: flex;
+}
+
+.Count-poke p {
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.6);
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.mb-3 {
+    margin-top: 28px;
+    margin-left: 630px;
 }
