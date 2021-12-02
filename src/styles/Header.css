@@ -1,0 +1,46 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    background-color: #020202;
+    width: 1440px;
+    height: 80px;
+    top: 0px;
+    left: 0px;
+}
+
+.Header-logo {
+    display: flex;
+    justify-content: center;
+    width: 172.73px;
+    height: 38px;
+    margin-top: 21px;
+    margin-bottom: 21px;
+    margin-left: 28px;
+}
+
+.Header-text {
+    color: #ffffff;
+    size: 21px;
+    line-height: 44px;
+    font-weight: 700;
+    margin-right: 18px;
+}
+
+.Header-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    margin-right: 28px;
+}
+
+.Header-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 30px;
+}
