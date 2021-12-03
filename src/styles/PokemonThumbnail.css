@@ -1,0 +1,48 @@
+.Thumb-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16px;
+}
+
+.Poke-title {
+    display: flex;
+    flex-direction: row;
+}
+
+.Poke-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #565656;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 98px;
+    height: 96px;
+    margin-right: 17px;
+}
+
+.Poke-img img {
+    width: 40px;
+    height: 40px;
+}
+
+.Poke-name {
+    margin-right: 5px;
+}
+
+.Poke-title p {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.Poke-feature p {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #565656;
+}
