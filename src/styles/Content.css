@@ -46,3 +46,8 @@
     margin-top: 28px;
     margin-left: 630px;
 }
+
+.Button-load-more {
+    display: flex;
+    margin-top: 24px;
+}
