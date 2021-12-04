@@ -5,7 +5,7 @@
 
 .Content-left {
     width: 64px;
-    height: 944px;
+    height: 3220px;
     margin-left: 0px;
     background-color: #F4F4F4;
 }
@@ -50,4 +50,5 @@
 .Button-load-more {
     display: flex;
     margin-top: 24px;
+    margin-bottom: 24px;
 }
