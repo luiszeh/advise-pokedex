@@ -48,3 +48,20 @@
     line-height: 24px;
     color: #565656;
 }
+
+@media screen and (max-width: 480px) {
+    .Thumb-container {
+        max-width: 480px;
+    }
+
+    .Poke-title {
+        margin-top: 16px;
+    }
+
+    .Poke-feature {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+       
+    }
+}
