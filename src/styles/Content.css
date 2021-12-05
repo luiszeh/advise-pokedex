@@ -52,3 +52,59 @@
     margin-top: 24px;
     margin-bottom: 24px;
 }
+
+@media screen and (max-width: 480px) {
+    
+
+    .Content hr {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 378px;
+        left: 0;
+        margin-right: 18px;
+        
+    }
+
+    .Content-left {
+        display: none;
+    }
+
+    .First-content-right {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .First-content-right-texts h1 {
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 44px;
+        text-align: center;
+        margin-top: 18px;
+        margin-left: 29px;
+        margin-right: 28px;
+    }
+
+    .First-content-right-texts p {
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 24px;
+        text-align: center;
+        margin-left: 98px;
+        margin-right: 97px;
+        margin-top: 6px;
+    }
+
+    .First-content-right-search {
+        display: none;
+    }
+
+    .Count-poke {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+        margin-right: 116px;
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+}
