@@ -4,7 +4,7 @@
 
 # Link para a página:
 
-<a href="# Instruções para rodar o projeto">Pokedex</a>
+<a href="https://advise-pokedex.herokuapp.com/">Pokedex</a>
 
 ## O que foi desenvolvido
 
