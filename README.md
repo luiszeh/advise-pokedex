@@ -1,6 +1,6 @@
 # Desafio Advise Pokedex
 
-![Advise-Pokedex-FullPage-reduzida](https://user-images.githubusercontent.com/78225894/144803772-fac0d45e-3cf1-4e9b-b0a6-8ba7217bb1f0.png)
+![Advise-Pokedex-FullPage-reduzida](https://user-images.githubusercontent.com/78225894/144804071-d8699e13-696d-43a8-bb52-8db9734f7759.png)
 
 # Link para a página:
 
