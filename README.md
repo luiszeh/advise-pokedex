@@ -1,6 +1,10 @@
 # Desafio Advise Pokedex
 
-![Advise-Pokedex-FullPage](https://user-images.githubusercontent.com/78225894/144803520-98e7b4b4-e4e4-4f10-a1cc-c0b5756c3e92.png)
+![Advise-Pokedex-FullPage-reduzida](https://user-images.githubusercontent.com/78225894/144803772-fac0d45e-3cf1-4e9b-b0a6-8ba7217bb1f0.png)
+
+# Link para a página:
+
+<a href="# Instruções para rodar o projeto">Pokedex</a>
 
 ## O que foi desenvolvido
 
