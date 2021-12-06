@@ -1,5 +1,7 @@
 # Desafio Advise Pokedex
 
+![Advise-Pokedex-FullPage](https://user-images.githubusercontent.com/78225894/144803520-98e7b4b4-e4e4-4f10-a1cc-c0b5756c3e92.png)
+
 ## O que foi desenvolvido
 
 Uma Pokedex onde busca e lista os Pokémons utilizando a <a href="https://pokeapi.co/">Poke API</a> e listando de 20 em 20.
